@@ -1,1 +1,17 @@
-theme: jekyll-theme-modernist
+name: FV62
+description:  Фото и Видео в Рязани и области
+google_analytics:
+theme:
+sass:
+  sass_dir: _sass
+  style: compressed
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  slideshow:
+    output: false
+  shop_sku:
+    output: true
+plugins_dir:
+-  jekyll-sass-converter

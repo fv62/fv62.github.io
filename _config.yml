@@ -15,3 +15,5 @@ collections:
     output: true
 plugins_dir:
 -  jekyll-sass-converter
+
+theme: jekyll-theme-cayman

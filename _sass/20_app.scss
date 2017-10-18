@@ -1,0 +1,89 @@
+@import '01_page_sizes';
+@import '02_colors';
+@import '03_icons';
+@import '04_grid';
+@import '05_typography';
+@import '06_video';
+@import '07_callme';
+@import '08_menu';
+@import '09_logo';
+@import '09_review_form';
+@import '10_slideshow.scss';
+@import '19_reviews';
+.content--left {
+  width: 49.2%;
+}
+
+.content--right {
+  width: 49.2%;
+}
+
+@media (max-width: $standart-width) {
+  .content--left {
+    width: 66.13%;
+  }
+  .content--right {
+    width: 32.26%;
+  }
+}
+
+@media (max-width: $narrow-width) {
+  .content--left {
+    width: 100%;
+  }
+  .content--right {
+    width: 100%;
+  }
+  .menu {
+    display: none;
+  }
+  .col {
+    margin: 0;
+  } // .logo {
+  //   text-align: center;
+  //   width: 100%;
+  //   img {
+  //     max-height: 96px;
+  //     display: inline;
+  //   }
+  // }
+  label.hamburger-button {
+    display: block;
+  }
+}
+
+@media (max-width: $small-width) {
+  .callmenow-small span {
+    margin: 0 1em !important;
+  }
+}
+
+.callmenow-small {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 3em;
+  li {
+    display: inline-block;
+  }
+  span {
+    height: 3em;
+    margin: 0 2em;
+  }
+}
+
+@media (max-width: $tiny-width) {
+  body {
+    padding: 0;
+  }
+}
+
+.header {
+  padding: 1em 0;
+}
+
+@media (min-width: $narrow-width) {
+  .callmenow-small {
+    display: none !important;
+  }
+}

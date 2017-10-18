@@ -1,0 +1,18 @@
+<div class="upperTop">
+  <div class="logo  float">
+    <a href="\" alt="home">
+      <h1>{{ site.name }}</h1>
+    </a>{{ site.description }}
+  </div>
+  <div class="callmenow span_2 float">
+    <ul>
+      {% for contact in site.contacts %} {% assign contact_array = contact | split: ":" %}
+      <li>
+        <a href="{{ contact }}">
+          <span class="icon {{ contact_array.first }}"></span>{{ contact_array.last }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+</div>

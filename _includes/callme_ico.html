@@ -1,0 +1,9 @@
+<ul class="callmenow-small">
+  {% for contact in site.contacts %} {% assign contact_array = contact | split: ":" %}
+  <li>
+    <a href="{{ contact }}">
+      <span class="icon {{ contact_array.first }}"></span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>

@@ -1,11 +1,19 @@
 name: FV62
 description: Фото и Видео в Рязани и области
 contacts:
-  - 'tel:+79206377000'
-  - 'tel:+79209700007'
-  - 'mailto:62ryazan@gmail.com'
-footerText: звоните
-headerText: фото и видео в Рязани и области iiii wuyrtg
+  - link: 'tel:+79206377000'
+    name: +7920 637 70 00
+    icon: tel
+    description: фото
+  - link: 'tel:+79209700007'
+    name: +7920 970 00 07
+    icon: tel
+    description: видео
+  - link: 'mailto:62ryazan@gmail.com'
+    name: 62ryazan@gmail.com
+    icon: mailto
+    description: почта
+footerText: FV62 - мы стараемся для Вас!
 google_analytics: null
 theme: null
 sass:

@@ -12,8 +12,7 @@
     padding: 13px 24px;
     color: $color_fuscous_gray;
     text-decoration: none;
-    font-size: 1em;
-    font-family: $font_0;
+    font-size: 1em; // font-family: $font_0;
     font-weight: 300;
     &.active {
       background-color: $faded--red;

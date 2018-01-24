@@ -5,10 +5,6 @@ contacts:
     name: +7920 637 70 00
     icon: tel
     description: фото
-  - link: 'tel:+79209700007'
-    name: +7920 970 00 07
-    icon: tel
-    description: видео
   - link: 'mailto:62ryazan@gmail.com'
     name: 62ryazan@gmail.com
     icon: mailto

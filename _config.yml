@@ -8,12 +8,12 @@ contacts:
 
   - link: 'https://t.me/photovideorzn'
     name: photovideorzn
-    icon: tel
+    icon: telegramm
     description: телеграм
     
   - link: 'https://www.instagram.com/photovideorzn'
     name: photovideorzn
-    icon: tel
+    icon: instagram
     description: инстаграм
     
 

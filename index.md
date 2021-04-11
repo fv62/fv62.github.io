@@ -10,7 +10,7 @@
 В нашу работу входит съёмка разнообразных событий Вашей жизни, таких как свадьба, love story, венчание, крестины, юбилей, выпускные в школах , выпускные утренники в ДС.
 
 **Контакты**
-- телефон: +7920 952 2822
+- телефон: [+7920 952 2822](tel:+79209522822)
 - телеграм: [t.me/photowedd](https://t.me/photowedd) 
 - телеграм канал: [t.me/photovideorzn](https://t.me/photovideorzn)
 - инстаграм: [instagram.com/photovideorzn](https://www.instagram.com/photovideorzn)

@@ -94,5 +94,11 @@
 
 
 .content.section.group > p {
+    margin: 0;
+}
+
+
+.content.section.group>p:nth-child(1) {
     padding: 1rem 0 0;
+    margin: 0;
 }

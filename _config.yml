@@ -25,7 +25,7 @@ sass:
   style: compressed
 collections:
   pages:
-    output: true
+    output: false
     permalink: '/:name'
   slideshow:
     output: false

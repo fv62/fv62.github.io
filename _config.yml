@@ -6,6 +6,17 @@ contacts:
     icon: tel
     description: фото
 
+  - link: 'https://t.me/photovideorzn'
+    name: photovideorzn
+    icon: tel
+    description: телеграм
+    
+  - link: 'https://www.instagram.com/photovideorzn'
+    name: photovideorzn
+    icon: tel
+    description: инстаграм
+    
+
 footerText: FV62 - мы стараемся для Вас!
 google_analytics: null
 theme: null

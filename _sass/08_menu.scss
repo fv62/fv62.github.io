@@ -49,7 +49,7 @@
 #burger-check {
   &:checked {
     &~.menu {
-      display: block !important;
+//       display: block !important;
       color: $red;
       padding-top: 3em;
       li {

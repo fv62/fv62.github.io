@@ -5,10 +5,7 @@ contacts:
     name: +7920 952 2822
     icon: tel
     description: фото
-  - link: 'mailto:fotovideo62@gmail.com'
-    name: fotovideo62@gmail.com
-    icon: mailto
-    description: почта
+
 footerText: FV62 - мы стараемся для Вас!
 google_analytics: null
 theme: null

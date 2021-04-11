@@ -16,6 +16,8 @@ $lighten: 40%;
 $faded--yellow: lighten(desaturate($yellow, $fade), $lighten);
 $faded--green: lighten(desaturate($green, $fade), $lighten);
 $faded--red: lighten(desaturate($red, $fade), $lighten);
-$faded--blue: lighten(desaturate($blue, $fade), $lighten);
+// $faded--blue: lighten(desaturate($blue, $fade), $lighten);
+$faded--blue: #37aee2;
+
 $black_10: rgba(0, 0, 0, 0.1);
 $color_fuscous_gray: #555555;

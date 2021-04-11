@@ -11,6 +11,6 @@
 
 **Контакты**
 - телефон: +7920 952 2822
-- телеграм: https://t.me/photowedd
-- телеграм канал: https://t.me/photovideorzn
-- инстаграм: https://www.instagram.com/photovideorzn
+- телеграм: [t.me/photowedd](https://t.me/photowedd) 
+- телеграм канал: [t.me/photovideorzn](https://t.me/photovideorzn)
+- инстаграм: [instagram.com/photovideorzn](https://www.instagram.com/photovideorzn)

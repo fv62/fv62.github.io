@@ -30,7 +30,17 @@
 @media (max-width: $narrow-width) {
   .section {
     margin: 0 1rem;
-  }  
+  }
+  
+  .logo >a {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .logo >a > span {
+    margin: 0 1rem;
+  }
   
   .content--left {
     width: 100%;

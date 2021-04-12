@@ -28,6 +28,10 @@
 }
 
 @media (max-width: $narrow-width) {
+  .section {
+    margin: 0 1rem;
+  }  
+  
   .content--left {
     width: 100%;
   }

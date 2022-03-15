@@ -7,13 +7,13 @@ contacts:
     description: телефон
 
   - link: 'https://vk.com/fotowed'
-    name: VK
+    name: vk.com/fotowed
     icon: vkontakte
     description: вконтакте
 
 
   - link: 'https://t.me/photovideorzn'
-    name: photovideorzn
+    name: @photovideorzn
     icon: telegramm
     description: телеграм канал
     

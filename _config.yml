@@ -11,7 +11,6 @@ contacts:
     icon: vkontakte
     description: вконтакте
 
-
   - link: 'https://t.me/fotowed'
     name: @fotowed
     icon: telegramm

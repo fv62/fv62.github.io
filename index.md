@@ -12,7 +12,7 @@
 **Контакты**
 - телефон: [+7920 637 7000](tel:+79206377000)
 - вконтакте: [https://vk.com/fotowed](https://vk.com/fotowed)
-- телеграм: [t.me/photowed](https://t.me/photowed) 
+- телеграм: [https://t.me/photowedd](t.me/photowedd) 
 - телеграм канал: [t.me/photovideorzn](https://t.me/photovideorzn)
 - инстаграм: [instagram.com/photovideorzn](https://www.instagram.com/photovideorzn)
 

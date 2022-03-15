@@ -11,10 +11,10 @@ contacts:
     icon: telegramm
     description: телеграм канал
     
-  - link: 'https://www.instagram.com/photovideorzn'
-    name: photovideorzn
-    icon: instagram
-    description: инстаграм
+  - link: 'https://vk.com/fotowed'
+    name: VK
+    icon: vkontakte
+    description: вконтакте
     
 
 footerText: FV62 - мы стараемся для Вас!

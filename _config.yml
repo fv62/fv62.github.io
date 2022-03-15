@@ -6,15 +6,17 @@ contacts:
     icon: tel
     description: телефон
 
+  - link: 'https://vk.com/fotowed'
+    name: VK
+    icon: vkontakte
+    description: вконтакте
+
+
   - link: 'https://t.me/photovideorzn'
     name: photovideorzn
     icon: telegramm
     description: телеграм канал
     
-  - link: 'https://vk.com/fotowed'
-    name: VK
-    icon: vkontakte
-    description: вконтакте
     
 
 footerText: FV62 - мы стараемся для Вас!

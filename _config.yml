@@ -12,7 +12,7 @@ contacts:
     description: вконтакте
 
   - link: 'https://t.me/fotowed'
-    name: &#0064;fotowed
+    name: t.me/fotowed
     icon: telegramm
     description: телеграм
     

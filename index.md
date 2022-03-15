@@ -15,4 +15,3 @@
 - телеграм: [t.me/fotowed](https://t.me/fotowed) 
 - телеграм канал: [t.me/photovideorzn](https://t.me/photovideorzn)
 - инстаграм: [instagram.com/photovideorzn](https://www.instagram.com/photovideorzn)
-
